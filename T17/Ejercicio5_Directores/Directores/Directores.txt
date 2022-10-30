@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6b"
+  },
+  "DNI": yhf4r51,
+  "NomApels": "nombre y apellido1",
+  "precio": 5,
+  "Almacen": 1
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6c"
+  },
+  "DNI": y5ftr51,
+  "NomApels": "nombre y apellido2",
+  "precio": 3,
+  "Almacen": 2
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be63"
+  },
+  "DNI": yh5tr51,
+  "NomApels": "nombre y apellido3",
+  "precio": 10,
+  "Almacen": 3
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be64"
+  },
+  "DNI": yhf7r51,
+  "NomApels": "nombre y apellido4",
+  "precio": 12,
+  "Almacen": 4
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6f"
+  },
+  "DNI": yhft451,
+  "NomApels": "nombre y apellido5",
+  "precio": 7,
+  "Almacen": 5
+}]

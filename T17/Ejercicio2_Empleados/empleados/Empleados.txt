@@ -1,0 +1,47 @@
+
+	{
+          _id: 1,
+          DNI : "1234A",
+          nombre: "luis",
+          apellido: "morales"
+          },
+	{
+          _id: 2,
+          DNI : "1234B",
+          nombre : "arnie",
+          apellido : "wilson"
+          },
+          {
+          _id : 3,
+          DNI : "1234C",
+          nombre : "eleanor",
+          apellido : "rigby"
+          },
+          {
+          _id : 4,
+          DNI : "1234D",
+          nombre : "steven",
+          apellido : "lennon"
+          },
+          {
+          _id : 5,
+          DNI : "1234E",
+          nombre : "arnold",
+          apellido : "terminator"
+          }
+          ]
+  )
+
+
+-  	SET EN VALOR:
+
+db.empleados.updateOne({_id : 2}, 
+                              { $set:
+                                  {
+                                    DNI : "1234B",
+                                    nombre : "homer",
+                                    apellido : "simpsons"
+                                  }
+                              }
+                              )
+

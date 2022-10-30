@@ -1,0 +1,22 @@
+
+			*** Insert Coleccion Equipos ***
+
+db.equipos.insertMany(
+                 [
+              {
+                _id : '123a'
+              },
+              {
+                _id : '123b'
+              },
+              {
+                _id : '123c'
+              },
+              {
+                _id : '123d'
+              },
+              {
+                _id : '123e'
+              }
+        ]
+  )

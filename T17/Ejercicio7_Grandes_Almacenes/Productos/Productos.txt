@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6b"
+  },
+  "codigo": yhf4r51,
+  "nombre": "nombre1",
+  "precio": 5
+  
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6c"
+  },
+  "codigo": y5ftr51,
+  "nombre": "nombre2",
+  "precio": 5
+  
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be63"
+  },
+  "codigo": yh5tr51,
+  "nombre": "nombre3",
+  "precio": 5,
+
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be64"
+  },
+  "codigo": yhf7r51,
+  "nombre": "nombre4",
+  "precio": 5,
+ 
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6f"
+  },
+  "codigo": yhft451,
+  "nombre": "nombre5",
+  "precio": 5,
+ 
+}]

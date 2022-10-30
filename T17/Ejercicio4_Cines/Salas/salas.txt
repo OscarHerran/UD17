@@ -1,0 +1,23 @@
+			*** TABLA E INSERCION DE SALAS ***
+
+
+db.salas.insertMany(
+                [
+                  {
+                    _id : 2,
+                    nombre : "barcelona city"
+                  },
+                  {
+                    _id : 3,
+                    nombre : "Cinevision",
+                  },
+                  {
+                    _id : 4,
+                    nombre : "Cinema Classics",
+                  },
+                  {
+                    _id : 5,
+                    nombre : "Cinepolis",
+                  }
+                  ]
+  )

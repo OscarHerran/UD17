@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6b"
+  },
+  "_codigo": 1,
+  "nombre": "articulo1",
+  "precio": 5,
+  "fabricante": 1
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6c"
+  },
+  "_codigo": 2,
+  "nombre": "articulo2",
+  "precio": 3,
+  "fabricante": 2
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6d"
+  },
+  "_codigo": 3,
+  "nombre": "articulo3",
+  "precio": 10,
+  "fabricante": 3
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6e"
+  },
+  "_codigo": 4,
+  "nombre": "articulo4",
+  "precio": 12,
+  "fabricante": 4
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6f"
+  },
+  "_codigo": 5,
+  "nombre": "articulo5",
+  "precio": 7,
+  "fabricante": 5
+}]

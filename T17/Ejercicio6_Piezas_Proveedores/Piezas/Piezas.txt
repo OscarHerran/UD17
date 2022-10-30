@@ -1,0 +1,26 @@
+			db.piezas.insertMany(
+            [
+              {
+                _id : 1,
+                nombre : "electrodos"
+              },
+              {
+                _id : 2,
+                nombre : "tornillos"
+              },
+              {
+                _id : 3,
+                nombre : "alicates",
+              },
+              {
+                _id : 4,
+                nombre : "martillo",
+              },
+              {
+                _id : 5,
+                nombre : "placas de acero",
+              }
+        ]
+  )
+{ acknowledged: true,
+  insertedIds: { '0': 1, '1': 2, '2': 3, '3': 4, '4': 5 } }

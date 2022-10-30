@@ -1,0 +1,26 @@
+			db.suministra.insertMany(
+                 [
+              {
+                _id : 1,
+                precio : 1000
+              },
+              {
+                _id : 2,
+                precio : 50
+              },
+              {
+                _id : 3,
+                precio : 75
+              },
+              {
+                _id : 4,
+                precio : 41
+              },
+              {
+                _id : 5,
+                precio : 12
+              }
+        ]
+  )
+{ acknowledged: true,
+  insertedIds: { '0': 1, '1': 2, '2': 3, '3': 4, '4': 5 } }

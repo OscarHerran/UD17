@@ -1,0 +1,31 @@
+
+
+			*** Insert Coleccion Investigadores ***
+
+
+db.investigadores.insertMany(
+                 [
+              {
+                _id : '123a',
+                nomApels : "Ernie evans",
+              },
+              {
+                _id : '123b',
+                nomApels : "John Nash"
+              },
+              {
+                _id : '123c',
+                nomApels : "Arthur Schopenhauer"
+              },
+              {
+                _id : '123d',
+                nomApels : "Leonard Cohen"
+              },
+              {
+                _id : '123e',
+                nomApels : "David Bowie"
+              }
+        ]
+  )
+
+

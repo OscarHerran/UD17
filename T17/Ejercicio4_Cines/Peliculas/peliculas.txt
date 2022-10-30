@@ -1,0 +1,35 @@
+				*** CREACION COLECCION DE PELICULAS***
+
+- Sentencia para insertar en una tabla específica:
+
+"db.nombreTabla.insertMany"
+
+db.peliculas.insertMany(
+                        [
+                      {
+                        _id : 1,
+                        nombre : "cómo matar a un ruiseñor",
+                        calificacion_por_edad : 12
+                      },
+                      {
+                        _id : 2,
+                        nombre : "Joker",
+                        calificacion_por_edad : 18
+                      },
+                      {
+                        _id : 3,
+                        nombre : "Casablanca",
+                        calificacion_por_edad : 14
+                      },
+                      {
+                        _id : 4,
+                        nombre : "Lord of the rings",
+                        calificacion_por_edad : 16
+                      },
+                      {
+                        _id : 5,
+                        nombre : "Star Wars",
+                        calificacion_por_edad : 18
+                      }
+                      ]
+  )

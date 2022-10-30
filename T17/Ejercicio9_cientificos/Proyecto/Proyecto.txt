@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6b"
+  },
+  "DNI": yhf4r51,
+  "nombre": "nombre1",
+  "horas": 1  
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6c"
+  },
+  "DNI": y5ftr51,
+  "nombre": "nombre2",
+  "horas": 2 
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be63"
+  },
+  "DNI": yh5tr51,
+  "nombre": "nombre3",
+  "horas": 3
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be64"
+  },
+  "DNI": yhf7r51,
+  "nombre": "nombre4",
+  "horas": 4 
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6f"
+  },
+  "DNI": yhft451,
+  "nombre": "nombre5",
+  "horas": 5 
+}]

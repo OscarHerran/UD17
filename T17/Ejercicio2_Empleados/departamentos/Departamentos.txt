@@ -1,0 +1,28 @@
+
+         {
+          _id: 1,
+          nombre: "Desarrollo",
+          presupuesto: 45000
+          },
+        	{
+          _id: 2,
+          nombre : "Recursos Humanos",
+          presupuesto : 20000
+          },
+          {
+          _id : 3,
+          nombre : "Dirección",
+          presupuesto : 150000
+          },
+          {
+          _id : 4,
+          nombre : "Logística",
+          presupuesto : 80000
+          },
+          {
+          _id : 5,
+          nombre : "Marketing",
+          presupuesto : 25000
+          }
+          ]
+  )

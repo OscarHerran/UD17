@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6b"
+  },
+  "codigo": yhf4r51,
+  "NomApels": "nombre y apellido1",
+  
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6c"
+  },
+  "codigo": y5ftr51,
+  "NomApels": "nombre y apellido2",
+  
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be63"
+  },
+  "codigo": yh5tr51,
+  "NomApels": "nombre y apellido3",
+
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be64"
+  },
+  "codigo": yhf7r51,
+  "NomApels": "nombre y apellido4",
+ 
+},{
+  "_id": {
+    "$oid": "61fa70a8e91752eb1ff7be6f"
+  },
+  "codigo": yhft451,
+  "NomApels": "nombre y apellido5",
+ 
+}]
